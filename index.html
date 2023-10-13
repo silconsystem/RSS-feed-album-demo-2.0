@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>HTML</title>
+  
+  <!-- HTML -->
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  
+  <div id="imgBox" class="img-box">
+    
+    <div id="content-card" class="card-style">
+      <h2><span id="track-title" class="card-style">default title</span></h2>
+      </br>
+      <p><span id="track-description" class="card-style">lorum Ipsum dolor amet</span></p>
+    </div><!-- content card -->
+    
+    <h1 class="logo-text">Binaural Subliminal</h1>
+    <img id="swapImg" src="img/handdrawn_00.png" class="scaling-img">
+  
+  </div>
+  <div id="player" class="player fade-in">
+    
+    <img id="prevButton" class="nav-button" src="img/arrow.png" alt="Previous">
+    <button id="playButton"><img id="playButtonImg" src="img/play.png" class="play-button"></button>
+    <img id="nextButton" class="nav-button" src="img/arrow.png" alt="Next">
+    <audio id="audioPlayer" class="hidden" controls>
+        Your browser does not support the audio element.
+    </audio>
+    
+  </div>
+
+  
+  <!-- Project  -->
+  <script src="js/fetch.js"></script>
+  <script src="js/main.js"></script>
+  
+</body>
+</html>
