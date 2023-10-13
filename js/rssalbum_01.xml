@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Binaural Sub</title>
+    <description>This is an RSS feed album using podcasting 2.0 tech.
+                  I created an old-fashioned EP, 5 tracks and 1 bonus track. 
+                  This could be a great way to share music and add all kinds of features,
+                  an album or single can have all kinds of extra content for the listeners to enjoy and
+                  connect them directly to gigs, merchandise, social media platforms and donations.
+                  I envision albums and singles shared by a link to a creative space that hosts the music, and more...
+                  But can also be read by any podcast 2.0 app.
+                  </description>
+    <link>https://binauralsubliminal.000webhostapp.com</link>
+    <language>en-US</language>
+    <generator>Freedom Controller</generator>
+    <pubDate>Fri, 09 Oct 2020 04:30:38 GMT</pubDate>
+    <lastBuildDate>Fri, 09 Oct 2020 04:30:38 GMT</lastBuildDate>
+    <managingEditor>binaural_sub303@protonmail.com (Binaural Sub)</managingEditor>
+    <webMaster>binaural_sub303@protonmail.com (Binaural Sub)</webMaster>
+    
+    <!-- IMAGE -->
+    
+    <!-- earth recycled --> 
+    <image>
+      <url>https://binauralsubliminal.com/album_01/hvnsgate.jpg</url>
+      <title>Earth Recycled</title>
+      <link>https://youtu.be/ru68PPXX7zo?si=7tFgVZvkB95OPkha</link>
+    </image>
+    <!-- see me -->
+    <image>
+      <url>https://binauralsubliminal.com/album_01/see_me.png</url>
+      <title>See Me(frank Yola - BinauralSub RMX</title>
+      <link>https://youtu.be/_Abk2evCeyk?si=zWyxr9KKDhPI4tg5</link>
+    </image>
+    <!-- the process -->
+    <image>
+      <url>https://binauralsubliminal.com/album_01/process.jpg</url>
+      <title>The Process</title>
+      <link>https://youtu.be/eIXEg1PKp8U?si=TznCWSMmCorlAZQG</link>
+    </image>
+    <!-- viewpoint-->
+    <image>
+      <url>https://binauralsubliminal.com/album_01/viewpoint.png</url>
+      <title>Viewpoint into Nothingness</title>
+      <link>https://youtu.be/pdKSHFjmuG4?si=O1mmQSxWl7Zkb6gl</link>
+    </image>
+    <!-- wandering_stars -->
+    <image>
+      <url>https://binauralsubliminal.com/album_01/stars.png</url>
+      <title>Wandering Stars (BinauralSub RMX)</title>
+      <link>https://youtu.be/TO8WHavwaf0?si=jVg9Ka22niFK0cKR</link>
+    </image>
+     <!-- dream -->
+    <image>
+      <url>https://binauralsubliminal.com/album_01/dream.jpg</url>
+      <title>Dream within a Dream</title>
+      <link>https://youtu.be/RioccxJDVJQ?si=JQYEftOZPBAGdRG9</link>
+    </image>
+    
+    <!-- Earth Recycled -->
+    <item>
+      <title>Earth Recycled</title>
+      <description>Electronic documentary on the heavens gate</description>
+      <enclosure url="https://binauralsubliminal.com/album_01/heavens_gate.wav" type="audio/mpeg" />
+      <pubDate>Wed, 1 Okt 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.com/album_01/hvnsgate.jpg" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/btc.html</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>       
+    <!-- See Me -->
+    <item>
+      <title>Frank Yola - See Me (RMX)</title>
+      <description>Frank Yola - See Me (if they wanted to) remix</description>
+      <enclosure url="https://binauralsubliminal.com/album_01/see_me.wav" type="audio/mpeg" />
+      <pubDate>Wed, 1 Okt 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.com/album_01/see_me.png" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/btc.html</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>
+    <!-- the process -->
+    <item>
+      <title>the Process</title>
+      <description>What is the process ???</description>
+      <enclosure url="https://binauralsubliminal.com/album_01/the_process.wav" type="audio/mpeg" />
+      <pubDate>Wed, 1 Okt 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.com/album_01/process.png" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/btc.html</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>      
+    <!-- viewpoint -->
+    <item>
+      <title>Viewpoint into Nothingness</title>
+      <description>This is a melancholic song...</description>
+      <enclosure url="https://binauralsubliminal.com/album_01/viewpoint.mp3" type="audio/mpeg" />
+      <pubDate>Wed, 1 Okt 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.com/album_01/viewpoint.png" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/btc.html</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>      
+    <!-- wandering_stars -->
+    <item>
+      <title>PortisHead - Wandering Stars (RMX)</title>
+      <description>Wandering Starts remix</description>
+      <enclosure url="https://binauralsubliminal.com/album_01/wandering_stars.mp3" type="audio/mpeg" />
+      <pubDate>Wed, 1 Okt 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.com/album_01/stars.png" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/btc.html</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>      
+    <!-- dream within a dream -->
+    <item>
+      <title>Dream Within a Dream</title>
+      <description>Edgar Allan Poe on Acid</description>
+      <enclosure url="https://binauralsubliminal.com/album_01/dream.wav" type="audio/mpeg" />
+      <pubDate>Wed, 1 Okt 2023 03:33:33 GMT</pubDate>
+      <itunes:author>Binaural Sub</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:image href="https://binauralsubliminal.com/album_01/dream.jpg" />
+      <podcast:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</podcast:license>
+      <podcast:transcript>https://example.com/transcript</podcast:transcript>
+      <podcast:chapters>https://example.com/chapters</podcast:chapters>
+      <podcast:funding>https://binauralsubliminal.000webhostapp.com/binsub_tracks/album_00/btc.html</podcast:funding>
+      <podcast:soundbite>https://example.com/soundbite</podcast:soundbite>
+      <podcast:location>https://example.com/location</podcast:location>
+      <podcast:season>1</podcast:season>
+      <podcast:episode>1</podcast:episode>
+      <podcast:trailer>https://example.com/trailer</podcast:trailer>
+      <podcast:editor>binaural_sub303@protonmail.com (Binaural Sub)</podcast:editor>
+      <podcast:producer>binaural_sub303@protonmail.com (Binaural Sub)</podcast:producer>
+    </item>      
+</channel>
+</rss>
